@@ -1,0 +1,41 @@
+body{
+    color:#b310aa;
+     background-color: black
+}
+h1{
+    color:chocolate;
+}
+button{
+    color: rgb(190, 10, 10)
+  
+}
+select{
+    color:rgb(12, 10, 158);
+}
+#one{
+    font-size: 50px;
+    line-height: normal;
+    text-transform: uppercase;
+    
+    }
+#two{
+    font-family :cursive;
+    height: 40px;
+    background-color :rgb(231, 199, 16);
+
+    
+}
+button{
+    background-color: rgb(190, 10, 85)
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 45px;
+    text-align : left;
+    text-decoration:rgb(11, 80, 63) wavy line-through;
+    border:2px solid rgb(4, 63, 131);
+    border-style: dotted;
+    width:550px;
+    
+}

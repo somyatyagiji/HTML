@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #FFC94A;
+
+}
+#one{
+    font-size: 20px;
+    line-height: normal;
+    text-transform: capitalize;
+    color:black;
+    
+    }
+    h1{
+        font-weight: bolder;
+        font-size: 60px;
+        text-align : left;
+        color:#453F78;
+    }
+    h2{
+        font-weight: normal;
+        font-size: 20px;
+        text-align : left;
+        color:#453F78;
+    }
+     h3{
+        font-weight: normal;
+        font-size: 28px;
+        text-align : left;
+        color:#453F78;
+     }
+     #name{font-size: 20px;
+        line-height: normal;
+        text-transform:capitalize;
+        color:black;}
+
+     h4{font-weight: normal;
+            font-size: 28px;
+            text-align : left;
+            color:#453F78;}
+
+     #roll{font-size: 20px;
+        line-height: normal;
+        text-transform:capitalize;
+        color:black;}
+    h5{font-weight: normal;
+        font-size: 28px;
+        text-align : left;
+        color:#453F78;}
+    #branch{font-size: 20px;
+        line-height: normal;
+        text-transform:capitalize;
+        color:black;}
+     h6{font-weight: normal;
+        font-size: 28px;
+        text-align : left;
+        color:#453F78;}  
+    #email{font-size: 20px;
+        line-height: normal;
+        text-transform:capitalize;
+        color:black;}
+        H7{font-weight: normal;
+            font-size: 28px;
+            text-align : left;
+            color:#453F78;}
+    #YEAR{font-size: 20px;
+        line-height: normal;
+        text-transform:capitalize;
+        color:black}  
+        LABLE{COLOR:BLACK;}
+     h8{font-weight: normal;
+        font-size: 28px;
+        text-align : left;
+        color:#453F78;} 
+     #phone{font-size: 20px;
+        line-height: normal;
+        text-transform:capitalize;
+        color:black;}  
+        H9{font-weight: normal;
+            text-transform: uppercase;
+            font-size: 32px;
+            text-align : left;
+            color:#09061f;}
+            BUTTON{
+                FONT-SIZE: 23PX;
+                LINE-HEIGHT: NORMAL;
+                TEXT-TRANSFORM: UPPERCASE;
+                BACKGROUND-COLOR: #807baa;
+                text-decoration-color: #07032c;
+            }
+
+       
+       
+       
